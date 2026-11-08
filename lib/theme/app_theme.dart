@@ -6,6 +6,9 @@ class NexoraColors {
   static const field = Color(0xFF18181B);
   static const border = Color(0xFF2A2A2F);
   static const textMuted = Color(0xFF8B8B93);
+  static const sidebar = Color(0xFF0D0D0F);
+  static const card = Color(0xFF17171A);
+  static const gold = Color(0xFFE0A84A);
 }
 
 ThemeData buildNexoraTheme() {
